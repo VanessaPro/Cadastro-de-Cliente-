@@ -1,5 +1,7 @@
+"use strict";
+
 const openModal = () => document.getElementById('modal')
-.classList.add('active') 
+    .classList.add('active')
 
 const closeModal = () => {
     clearFields()
