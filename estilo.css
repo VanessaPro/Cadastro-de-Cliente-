@@ -5,7 +5,7 @@
 }
 
 :root{
-    --primary-color: 	#8FBC8F;
+    --primary-color: #D2691E;
     --secundary-color: #FA8072;
     --shadow-color: #CCC;
     --text-color: #FFF;
@@ -87,7 +87,7 @@ footer{
 }
 
 .button.blue{
-    background-color: #1FB6FF;
+    background-color: 	#9ACD32;
     border-radius: 10px;
 }
 
